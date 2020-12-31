@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![GitHub Thaiane](https://img.shields.io/github/followers/hailin0?label=follow&style=social)](https://github.com/hailin0)
+
+![Jared Tan's github stats](https://github-readme-stats.vercel.app/api?username=hailin0&show_icons=true&hide_border=false)
+
+
+<table><tr><td valign="top">
