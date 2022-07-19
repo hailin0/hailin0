@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 - ⚡️ Technologies I work with: Java, Golang, React and more
 - 😄 Pronouns: He
 
-<div align="center">
-  <img height="180em" style="max-width:100px" src="https://github-readme-stats.vercel.app/api?username=hailin0&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" style="max-width:50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hailin0&langs_count=8&theme=radical"/>
-</div>
+![Jared Tan's github stats](https://github-readme-stats.vercel.app/api?username=hailin0&show_icons=true&theme=radical&include_all_commits=true)
+
+<!--
+![Jared Tan's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hailin0&langs_count=8&theme=radical)
+-->
