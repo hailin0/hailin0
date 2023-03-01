@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img src="https://visitor-badge.laobi.icu/badge?page_id=hailin0.readme" style="max-width:100%;">
 
 - 🌱 My interest lies in APM, MicroService Monitor.
-- 🚶 I’m also currently working on open source projects, say, skywalking & dolphinscheduler.
+- 🚶 I’m also currently working on open source projects, say, skywalking & seatunnel.
 - 👯 I’m looking to collaborate on interesting open-souce projects, especially those with friendly and responsive community.
 - ⚡️ Technologies I work with: Java, Golang, React and more
 - 😄 Pronouns: He
